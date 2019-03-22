@@ -1,6 +1,7 @@
 == Testimonies Concerning Thomas Wilson.
 
-=== The Testimony of Mary Wilson, Concerning her Dear Husband--Deceased.
+[.chapter-subtitle--blurb]
+The Testimony of Mary Wilson, Concerning her Dear Husband--Deceased.
 
 Since it has pleased the Lord to remove from me my dear husband by death,
 there has often been a concern upon my mind, to give forth a testimony concerning him:
@@ -95,11 +96,10 @@ and touch the tongues of many of our youth, with a live coal from his holy altar
 that many may be willing to run his errand, and be serviceable in his hand,
 as were many of the generation, whom he has removed from us.
 
-Mary Wilson.
+[.signed-section-signature]
+Mary Wilson
 
-[.asterism]
-'''
-
+[.blurb]
 === The Testimony of Thomas Wilson`'s Children, Concerning their Dear Deceased Father.
 
 We find ourselves engaged to give this testimony concerning our dear father,
@@ -149,13 +149,13 @@ so as to obtain the blessing while here,
 and the crown of eternal life that is laid up for the righteous,
 when time to us shall be no more.
 
-Thomas Wilson, Benjamin Wilson.
+[.signed-section-signature]
+Thomas Wilson, Benjamin Wilson
 
+[.signed-section-context-close]
 Thornwell, the 1st of the Third month, 1727.
 
-[.asterism]
-'''
-
+[.blurb]
 === James Dickinson`'s Testimony, Concerning his Friend and Companion, in the Work of the Gospel, Thomas Wilson--Deceased:
 
 Being a testimony to the sufficiency of the Lord`'s power, and the work thereof,
@@ -298,14 +298,12 @@ concerning his faithful and diligent labors in the work of the Gospel,
 of which a small account is given in his Journal, yet what I have said,
 is not to attribute anything to man, but to the Lord`'s power,
 which wrought effectually in him, and whereof he was a faithful witness,
-to whom be glory forever.
-Amen.
+to whom be glory forever. Amen.
 
-James Dickinson.
+[.signed-section-signature]
+James Dickinson
 
-[.asterism]
-'''
-
+[.blurb]
 === The Testimony of Friends in Ireland, from their National Half-year`'s Meeting, held in Dublin, from the 8th to the 12th of the Third month, 1726, Concerning that Worthy Elder and Eminent Minister in the Church of Christ, Thomas Wilson--Deceased.
 
 It has pleased Almighty God, the fountain of all mercies,
@@ -370,21 +368,22 @@ a living spring of the ministry, and that many may be made willing to run his er
 and be serviceable in his hand, as was this our worthy friend,
 who departed this life the 20th of the third month, 1725;
 aged about seventy-one years--having been a minister about forty-five years.
+
+[.signed-section-closing]
 Signed in behalf of our said meeting, by
 
-Henry Brookfield, George Rooke, Wm. Brookfield, Jacob Fuller, Thomas Bewley,
+[.signed-section-signature]
+Henry Brookfield, George Rooke, William Brookfield, Jacob Fuller, Thomas Bewley,
 Joshua Clibborn, John Barclay, Mungo Bewley, Gregory Russel, Joseph Inman, John Stoddart,
 Jonathan Robinson, Edward Barwick, Joseph Gill, John Boles, Richard Sealey,
 Abel Strettel, Thomas Ducrett, Solomon Watson, Ralph Stephenson, Samuel Watson,
-Nicholas Harris, James Pillar, Bartho.
-Garnett, Thomas Greer, James Hill, Daniel Bewley, Toby Courtney, Samuel Fuller,
-John Chrysty.
+Nicholas Harris, James Pillar, Bartho Garnett, Thomas Greer, James Hill, Daniel Bewley,
+Toby Courtney, Samuel Fuller, John Chrysty.
 
-[.asterism]
-'''
-
+[.blurb]
 === A Brief Abstract of the Testimonies of Friends of the Three Provinces,Concerning our Deceased friend, Thomas Wilson.
 
+[.blurb]
 === From Ulster Province Meeting.
 
 He was profound in heavenly mysteries, yet plain and clear in declaring them;
@@ -403,9 +402,7 @@ He frequently visited Friends of this province; and the last visit he made to us
 was as much as ever, in the openings of divine love, life and sweetness in spirit,
 to the refreshing and edifying of Friends.
 
-[.asterism]
-'''
-
+[.blurb]
 === From Leinster Province Meeting.
 
 His travels and labors of love in the Gospel of Christ, were great,
@@ -442,9 +439,7 @@ and when he found himself clear, returned speedily to his outward abode,
 and was diligent in his lawful vocation of husbandry, for the good of his family,
 wherein the Lord blessed his endeavors with prosperity and plenty.
 
-[.asterism]
-'''
-
+[.blurb]
 === From Munster Province Meeting.
 
 He was a faithful laborer in the Lord`'s harvest,
@@ -462,9 +457,7 @@ without swerving to the right hand or to the left--being very sensible,
 that those wholesome rules and precepts, with which we are favored,
 have been given forth in the wisdom of truth.
 
-[.asterism]
-'''
-
+[.blurb]
 === The Testimony of Friends of Coldbeck Monthly Meeting, in Cumberland, Concerning our Dear Friend, Thomas Wilson--Deceased, Who Was a Member of the Said Meeting for Some Time in his Young Years.
 
 This worthy man,
@@ -512,9 +505,7 @@ Joseph Peacock, William Greenup, Thomas Lamb, John Scott, William Scott, Thomas 
 John Sowerby, George Bewley, Robert Gill, Benjamin Bewley, Jacob Nicholson,
 Samuel Peacock, John Scott.
 
-[.asterism]
-'''
-
+[.blurb]
 === An Abstract of a Testimony Given by Friends of Virginia, Concerning Thomas Wilson-- Deceased, to which Somewhat is Since Added by Joseph Jordan, a Friend of that Place, Now in Dublin, the 27th of the Twelfth Month, 1726-7.
 
 Among the many faithful laborers,
@@ -588,12 +579,10 @@ Signed on behalf of Friends in Virginia, the 14th of the fifth month, 1726,
 by John Porter, Samuel Sebrell, Robert Jordan, John Small, Gerard Robert Ellison,
 Nathan Newby.
 
-[.asterism]
-'''
-
+[.blurb]
 === The Testimony of George Marke, Concerning our Dear Friend, Thomas Wilson--Deceased.
 
-I HAD some knowledge of him before he was convinced of the blessed truth,
+I had some knowledge of him before he was convinced of the blessed truth,
 whereof he afterward became an able minister;
 in which time of my first acquaintance with him, he was light and airy in conversation,
 much given to sporting and jesting,
@@ -650,13 +639,13 @@ who has done his day`'s work carefully, and is entered into that rest,
 prepared of the Father, for the faithful; and though he is removed,
 yet his memory will live amongst us.
 
-George Marke.
+[.signed-section-signature]
+George Marke
 
+[.signed-section-context-close]
 Mosedale, in Cumberland, the 28th of the Third month, 1726.
 
-[.asterism]
-'''
-
+[.blurb]
 === The Testimony of Thomas Priestman, Concerning his Dear Friend, Thomas Wilson--Deceased.
 
 That the Lord our God, who is the Father of mercies, has in this day, as in former ages,
@@ -696,4 +685,8 @@ He is fresh in the remembrance of many of us, and the dealings of God with him,
 who raised him from a low degree, and made him an able minister of the Gospel,
 to turn people to the knowledge and obedience of the truth in themselves.
 
-Thomas Priestman.Dearudding, the 20th of the Second month, 1726.
+[.signed-section-signature]
+Thomas Priestman
+
+[.signed-section-context-close]
+Dearudding, the 20th of the Second month, 1726.
