@@ -1,8 +1,13 @@
 == Epistles Written by Thomas Wilson, And His Fellow-Labourer in the Service of the Gospel, James Dickinson, Whilst in America.
 
-=== An Epistle to Friends in Virginia and Carolina, from King`'s creek, in Maryland, the 12th of the Second month, 1692.
+[.chapter-subtitle--blurb]
+An Epistle to Friends in Virginia and Carolina, from King`'s creek, in Maryland,
+the 12th of the Second month, 1692.
 
-Dear Friends, All dwell in the love of God, by which your hearts were at first reached,
+[.salutation]
+Dear Friends,
+
+All dwell in the love of God, by which your hearts were at first reached,
 and tender desires raised, to make your peace with him, which was lost by reason of sin.
 It was the love of the Father to bring you to his Son, the Lord Jesus Christ,
 in whom you all have life and salvation, as you abide in him, and keep in his love,
@@ -72,6 +77,7 @@ which will occasion praises to be sounded forth to the Lord God and the Lamb,
 who is blessed for evermore.
 Amen.
 
+[.offset]
 Postscript:
 
 Dear Friends, we desire you, in the love of God,
@@ -86,7 +92,6 @@ that you may be preachers of righteousness to the world, that lies in wickedness
 and follow after those things that make for peace, and eschew the contrary,
 and the God of peace will bless you, and keep you from evil, that it hurt you not,
 to his glory, and your comfort.
-
 Amen.
 
 Let copies of this be taken and read in your meetings, and a copy be sent to Carolina.
@@ -94,11 +99,16 @@ So remain your friends and brethren in the truth, letting you know that we are w
 with love to you all, sending these lines as a token thereof.
 Farewell.
 
-Thomas Wilson, James Dickinson.
+[.signed-section-signature]
+Thomas Wilson, James Dickinson
 
-=== An Epistle to Friends in Pennsylvania.
+[.chapter-subtitle--blurb]
+An Epistle to Friends in Pennsylvania.
 
-Dear Friends, The tender salutation of our love in the Lord Jesus Christ,
+[.salutation]
+Dear Friends,
+
+The tender salutation of our love in the Lord Jesus Christ,
 salutes you all, in the spring of divine love, as those that desire your growth,
 and settlement in God`'s everlasting truth, of which, in his rich mercy,
 he hath made you sensible, and gathered you into,
@@ -191,15 +201,18 @@ and tribulation of the Lamb, with hearts full of love unto all the faithful,
 desiring your prayers to God for us, unto whom we commit you, with our own souls,
 who is only able to keep us from falling; to whom be.
 all fear, obedience and worship, both now and evermore.
-
 Amen.
 
-Thomas Wilson.James Dickinson.
+[.signed-section-signature]
+Thomas Wilson, James Dickinson
 
+[.signed-section-context-close]
 From Rhode Island, the 5th of the Fifth month, 1692.
 
-=== An Epistle to Friends in Barbados and Elsewhere.
+[.chapter-subtitle--blurb]
+An Epistle to Friends in Barbados and Elsewhere.
 
+[.salutation]
 Dear Friends, brethren and sisters.
 
 For whom we are concerned in true brotherly love, wherewith God,
@@ -327,15 +340,22 @@ that we may walk before him in humility, worthy of those mercies and blessings,
 that God in all things may be glorified, and our peace preserved with him.
 Amen.
 
+[.signed-section-closing]
 We remain your friends and brethren in the truth,
 
-Thomas Wilson, James Dickinson.
+[.signed-section-signature]
+Thomas Wilson, James Dickinson
 
+[.signed-section-context-close]
 From Antigua, the 14th of the Tenth month, 1692.
 
-=== An Epistle to Friends in Philadelphia.
+[.chapter-subtitle--blurb]
+An Epistle to Friends in Philadelphia
 
-Dear Friends, Our dear love in the holy truth, tenderly salutes you all.
+[.salutation]
+Dear Friends,
+
+Our dear love in the holy truth, tenderly salutes you all.
 We received a letter from New York, and were glad to hear of your welfare,
 and the Lord`'s appearance amongst you, in your general meeting,
 and prevailing by his presence and power upon your spirits, tendering them before him,
@@ -391,13 +411,19 @@ that you may be kept by the power of God, unto whom we leave you,
 desiring your prayers for our preservation in the holy truth,
 wherein we remain your friends and brethren,
 
-Thomas Wilson, James Dickinson.
+[.signed-section-signature]
+Thomas Wilson, James Dickinson
 
+[.signed-section-context-close]
 Nevis, the 4th of the Twelfth month, 1692-3.
 
-=== Another Epistle to Friends in America.
+[.chapter-subtitle--blurb]
+Another Epistle to Friends in America.
 
-Dear Friends, Our tender love in the Lord Jesus Christ, dearly salutes you,
+[.salutation]
+Dear Friends,
+
+Our tender love in the Lord Jesus Christ, dearly salutes you,
 and all the faithful in that island,
 amongst whom we have travelled to preach the Gospel of life and salvation,
 desiring the Lord may bless you all, and increase his love amongst you,
@@ -440,13 +466,16 @@ and ease the spirits of them that travel under the weight thereof.
 Unto him we are willing to commit the cause, and do commit you, and our own souls;
 so remain your friends and brethren,
 
-Thomas Wilson, James Dickinson.
+[.signed-section-signature]
+Thomas Wilson, James Dickinson
 
-=== To Friends of Mount-melick, Men`'s Meeting, and Elsewhere.
+[.chapter-subtitle--blurb]
+To Friends of Mount-melick, Men`'s Meeting, and Elsewhere.
 
+[.salutation]
 Dear Friends,
 
-I HAVE been for some years past, and more especially of late,
+I have been for some years past, and more especially of late,
 under deep considerations respecting the state of Friends,
 and the affairs of truth in general, and our Monthly Meeting in particular,
 which hath brought a weight of exercise upon my mind;
@@ -493,6 +522,8 @@ which God never commanded, neither will accept, and so they bring death over the
 kindle strange fire in the meeting, dazzle the minds of Friends,
 and are hinderers of the work and service of truth.
 
-Thomas Wilson.
+[.signed-section-signature]
+Thomas Wilson
 
-THE END.
+[.the-end]
+THE END
