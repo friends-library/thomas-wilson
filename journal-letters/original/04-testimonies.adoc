@@ -385,7 +385,8 @@ John Chrysty.
 [.blurb]
 === A Brief Abstract of the Testimonies of Friends of the Three Provinces,Concerning our Deceased friend, Thomas Wilson.
 
-From Ulster Province Meeting.
+[.blurb]
+=== From Ulster Province Meeting.
 
 He was profound in heavenly mysteries, yet plain and clear in declaring them;
 very skilful and excellent in distinguishing matters of faith and principle,
@@ -403,7 +404,8 @@ He frequently visited Friends of this province; and the last visit he made to us
 was as much as ever, in the openings of divine love, life and sweetness in spirit,
 to the refreshing and edifying of Friends.
 
-From Leinster Province Meeting.
+[.blurb]
+=== From Leinster Province Meeting.
 
 His travels and labours of love in the Gospel of Christ, were great,
 frequently visiting the meetings of Friends in this province,
@@ -439,7 +441,8 @@ and when he found himself clear, returned speedily to his outward abode,
 and was diligent in his lawful vocation of husbandry, for the good of his family,
 wherein the Lord blesssed his endeavours with prosperity and plenty.
 
-From Munster Province Meeting.
+[.blurb]
+=== From Munster Province Meeting.
 
 He was a faithful labourer in the Lord`'s harvest,
 and travelled much in the service of truth,
