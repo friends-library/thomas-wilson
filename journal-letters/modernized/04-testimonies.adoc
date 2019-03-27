@@ -99,9 +99,6 @@ as were many of the generation, whom he has removed from us.
 [.signed-section-signature]
 Mary Wilson
 
-[.asterism]
-'''
-
 [.blurb]
 === The Testimony of Thomas Wilson`'s Children, Concerning their Dear Deceased Father.
 
@@ -157,9 +154,6 @@ Thomas Wilson, Benjamin Wilson
 
 [.signed-section-context-close]
 Thornwell, the 1st of the Third month, 1727.
-
-[.asterism]
-'''
 
 [.blurb]
 === James Dickinson`'s Testimony, Concerning his Friend and Companion, in the Work of the Gospel, Thomas Wilson--Deceased:
@@ -309,9 +303,6 @@ to whom be glory forever. Amen.
 [.signed-section-signature]
 James Dickinson
 
-[.asterism]
-'''
-
 [.blurb]
 === The Testimony of Friends in Ireland, from their National Half-year`'s Meeting, held in Dublin, from the 8th to the 12th of the Third month, 1726, Concerning that Worthy Elder and Eminent Minister in the Church of Christ, Thomas Wilson--Deceased.
 
@@ -389,9 +380,6 @@ Abel Strettel, Thomas Ducrett, Solomon Watson, Ralph Stephenson, Samuel Watson,
 Nicholas Harris, James Pillar, Bartho Garnett, Thomas Greer, James Hill, Daniel Bewley,
 Toby Courtney, Samuel Fuller, John Chrysty.
 
-[.asterism]
-'''
-
 [.blurb]
 === A Brief Abstract of the Testimonies of Friends of the Three Provinces,Concerning our Deceased friend, Thomas Wilson.
 
@@ -414,9 +402,6 @@ the author and giver of all good gifts.
 He frequently visited Friends of this province; and the last visit he made to us,
 was as much as ever, in the openings of divine love, life and sweetness in spirit,
 to the refreshing and edifying of Friends.
-
-[.asterism]
-'''
 
 [.blurb]
 === From Leinster Province Meeting.
@@ -455,9 +440,6 @@ and when he found himself clear, returned speedily to his outward abode,
 and was diligent in his lawful vocation of husbandry, for the good of his family,
 wherein the Lord blessed his endeavors with prosperity and plenty.
 
-[.asterism]
-'''
-
 [.blurb]
 === From Munster Province Meeting.
 
@@ -475,9 +457,6 @@ keeping in the path of the faithful,
 without swerving to the right hand or to the left--being very sensible,
 that those wholesome rules and precepts, with which we are favored,
 have been given forth in the wisdom of truth.
-
-[.asterism]
-'''
 
 [.blurb]
 === The Testimony of Friends of Coldbeck Monthly Meeting, in Cumberland, Concerning our Dear Friend, Thomas Wilson--Deceased, Who Was a Member of the Said Meeting for Some Time in his Young Years.
@@ -526,9 +505,6 @@ the 20th of the second month, 1726.
 Joseph Peacock, William Greenup, Thomas Lamb, John Scott, William Scott, Thomas Scott,
 John Sowerby, George Bewley, Robert Gill, Benjamin Bewley, Jacob Nicholson,
 Samuel Peacock, John Scott.
-
-[.asterism]
-'''
 
 [.blurb]
 === An Abstract of a Testimony Given by Friends of Virginia, Concerning Thomas Wilson-- Deceased, to which Somewhat is Since Added by Joseph Jordan, a Friend of that Place, Now in Dublin, the 27th of the Twelfth Month, 1726-7.
@@ -604,9 +580,6 @@ Signed on behalf of Friends in Virginia, the 14th of the fifth month, 1726,
 by John Porter, Samuel Sebrell, Robert Jordan, John Small, Gerard Robert Ellison,
 Nathan Newby.
 
-[.asterism]
-'''
-
 [.blurb]
 === The Testimony of George Marke, Concerning our Dear Friend, Thomas Wilson--Deceased.
 
@@ -672,9 +645,6 @@ George Marke
 
 [.signed-section-context-close]
 Mosedale, in Cumberland, the 28th of the Third month, 1726.
-
-[.asterism]
-'''
 
 [.blurb]
 === The Testimony of Thomas Priestman, Concerning his Dear Friend, Thomas Wilson--Deceased.
