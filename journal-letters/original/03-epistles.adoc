@@ -78,10 +78,10 @@ which will occasion praises to be sounded forth to the Lord God and the Lamb,
 who is blessed forevermore.
 Amen.
 
-[.offset]
-Postscript:
+[.postscript]
+====
 
-Dear Friends, we desire you, in the love of God,
+Postscript: Dear Friends, we desire you, in the love of God,
 as it was our advice when present with you, that you watch one over another in love,
 and keep in a Christian spirit, forgiving one another;
 if any brother have anything against another, as God, for Christ`'s sake,
@@ -99,6 +99,8 @@ Let copies of this be taken and read in your meetings, and a copy be sent to Car
 So remain your friends and brethren in the truth, letting you know that we are well,
 with love to you all, sending these lines as a token thereof.
 Farewell.
+
+====
 
 [.signed-section-signature]
 Thomas Wilson, James Dickinson
