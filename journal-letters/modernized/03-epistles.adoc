@@ -20,6 +20,7 @@ Every one be careful to walk worthy of the vocation, whereunto you are called,
 in all fear and meekness, watching in the light,
 where you will discern the wiles of the enemy in
 all his cunning baits and transformations.
+// lint-disable person-mismatch "you keeps"
 As every one of you keeps inward to the Lord, you will have salt in yourselves,
 to savor withal, as Christ our Lord said, "`Everyone shall be salted with fire,
 and every sacrifice seasoned with salt; have salt in yourselves,
