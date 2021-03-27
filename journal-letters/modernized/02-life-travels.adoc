@@ -1,4 +1,4 @@
-[#life-travels, short="The Life and Travels of Thomas Wilson"]
+[short="The Life and Travels of Thomas Wilson"]
 == A Brief Account of the Life and Travels of Thomas Wilson.
 
 I was born in Soulby, in the parish of Daker, and county of Cumberland;

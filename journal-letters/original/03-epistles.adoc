@@ -1,4 +1,4 @@
-[#epistles, short="Epistles by Thomas Wilson and James Dickenson"]
+[short="Epistles by Thomas Wilson and James Dickenson"]
 == Epistles Written by Thomas Wilson, And His Fellow-Labourer in the Service of the Gospel, James Dickinson, Whilst in America.
 
 [.chapter-subtitle--blurb]
